@@ -1,4 +1,3 @@
-```markdown
 # Movie Genre Classification
 
 This project uses a machine learning algorithm to classify movie genres based on their descriptions.
